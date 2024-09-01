@@ -1,0 +1,5 @@
+Package installation in flutter
+
+command
+
+-> flutter pub add <package-name></package-name>
